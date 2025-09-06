@@ -1,4 +1,4 @@
-🚀 # Healthcare Sales & Revenue Analysis — Excel Interactive Dashboard
+# Healthcare Sales & Revenue Analysis — Excel Interactive Dashboard
 Built in Excel using a real two‑month dataset of medicine sales across Delhi pharmacies.
 
 # Overview
